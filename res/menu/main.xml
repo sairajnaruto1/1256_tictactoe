@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+    <item android:id="@+id/newGame" android:title="@string/newGame_label" android:icon="@android:drawable/ic_menu_add"></item>
+    <item android:id="@+id/exitGame" android:title="@string/exitGame_label" android:icon="@android:drawable/ic_menu_close_clear_cancel"></item>
+    
+
+</menu>
